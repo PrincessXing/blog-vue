@@ -1,2 +1,14 @@
-# blog-vue
-博客系统前端工程
+
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+
+```
+
